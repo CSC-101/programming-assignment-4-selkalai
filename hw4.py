@@ -1,4 +1,5 @@
 import build_data
+
 import sys
 from data import CountyDemographics
 
